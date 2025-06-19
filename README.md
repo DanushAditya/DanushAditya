@@ -26,5 +26,5 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)
+- 💼 [LinkedIn]([[https://linkedin.com/in/your-link](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BaFsKj1hCRIe0WZaUD4oe%2FA%3D%3D)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BaFsKj1hCRIe0WZaUD4oe%2FA%3D%3D))
 - 📧 Email: danushadityavc@gmail.com
