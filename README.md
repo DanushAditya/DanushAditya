@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Danush
 
-<!--
-**DanushAditya/DanushAditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Backend Developer (Java)  
+🎓 Final Year CSBS Student @ KPRIET  
+🏆 Hackathon Winner | Project Builder | Focused on DSA & Backend Systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- Programming Languages: **Java**, Python, C
+- Backend: **Spring Boot**, REST APIs
+- Databases: **MySQL**, MongoDB
+- Tools: **Git**, GitHub, Postman, Docker (Basics)
+- Frontend (Basic): HTML, CSS, React
+
+---
+
+## 📂 Projects
+
+- 🚮 **Smart Waste Management System** – AI-powered waste severity detection and routing  
+- ⚡ **Electricity Usage Identifier** – Real-time monitoring of household appliance consumption  
+- 📌 *More backend-focused applications in progress...*
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)
+- 📧 Email: danushadityavc@gmail.com
